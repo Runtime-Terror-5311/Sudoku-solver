@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     target: "es2017",
   },
-  base: "/sudoku-solver/",
+  base: "/Sudoku-solver/",
 });
